@@ -4,4 +4,4 @@ To run this script use the following command format:
 
 Example: 
 
-- python main.py python main.py sample_codes/complex_single_block/sample1
+- python main.py sample_codes/complex_single_block/sample1
