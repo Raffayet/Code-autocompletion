@@ -1,0 +1,8 @@
+def add(a, b):
+    result|
+    return result
+
+
+def divide(a, b):
+    return a / b
+

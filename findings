@@ -1,0 +1,3 @@
+The more we reduce the expected completed code size, the more precise the model is - decrease length_penalty
+SINGLE BLOCK VS MULTI BLOCK CONTEXT
+lowering n-gram parameter while calculating bleu score give more precise result
